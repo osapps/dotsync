@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@babel/register": "^7.0.0",
-    "@storybook/addon-actions": "^4.1.0",
+    "@storybook/addon-actions": "^5.1.9",
     "@storybook/addon-links": "^4.1.0",
     "@vue/cli-plugin-babel": "^4.0.0-alpha.0",
     "@vue/cli-plugin-eslint": "^4.0.0-alpha.0",
