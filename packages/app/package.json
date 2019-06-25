@@ -25,7 +25,7 @@
     "storybook:build": "vue-cli-service storybook:build -c config/storybook"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.1.0",
     "core-js": "^3.0.1",
     "electron-log": "^3.0.1",
     "electron-plugin-manager": "^1.0.0",
